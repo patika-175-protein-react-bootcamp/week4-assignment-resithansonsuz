@@ -2,10 +2,10 @@ import "../App.css";
 import Detail from "../components/Detail";
 import Heading from "../components/Heading";
 import TransitionButton from "../components/PageTransitionButton";
-import FinalLineIcon from "../constants/icons/FinalLineIcon";
+import FinalLineIcon from "../constants/icons/finalLineIcon";
 import AllQuestionsLineIcon from "../constants/icons/allQuestionLineIcon";
 
-function StartPage() {
+function ConclusionPage() {
   return (
     <div className="conclusionPage">
       <div>
@@ -25,4 +25,4 @@ function StartPage() {
     </div>
   );
 }
-export default StartPage;
+export default ConclusionPage;
