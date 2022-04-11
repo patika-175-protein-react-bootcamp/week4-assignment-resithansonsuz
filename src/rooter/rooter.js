@@ -11,11 +11,7 @@ function Router() {
     <Routes>
       <Route path="/" element={<Start />} />
       <Route path="questionsPage" element={<QuestionsPage />} />
-<<<<<<< HEAD
       <Route path="conclusionPage" element={<ConslusionPage />} />
-=======
-        <Route path="conclusionPage" element={<ConslusionPage />} />
->>>>>>> 8311e831302bb47c9b4c1bc483df6ac2583b9331
     </Routes>
   );
 }
