@@ -1,7 +1,6 @@
 import React from "react";
-
+//Border of reply button created.
 const AnswerButtonIcon = (props) => {
-  console.log(props);
   return (
     <svg
       width="150"

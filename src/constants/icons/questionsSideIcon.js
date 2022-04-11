@@ -1,7 +1,6 @@
 import React from "react";
 
 const QuestionsSideIcon = (props) => {
-  console.log(props);
   return (
     <svg
       width="600"

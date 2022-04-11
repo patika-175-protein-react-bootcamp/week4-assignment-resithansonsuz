@@ -1,5 +1,5 @@
 import React from "react";
-
+//Symbol created for true answer.
 const TrueIcon = (props) => {
   console.log(props);
   return (

@@ -1,12 +1,12 @@
 import "../App.css";
 import React from "react";
-import AnswerButtonIcon from "../constants/icons/AnswerButtonIcon";
+import AnswerButtonIcon from "../constants/icons/answerButtonIcon";
 
-
-const AnswerButton = ({answer,num,color,onClick}) => (
+//This component displays the answer options and button lines creates.
+const AnswerButton = ({answer,num,color,click}) => (
   <div className={"AnswerButtons answer"+ num}>
     <AnswerButtonIcon color= {color} />
-    <span onClick={onClick}>{answer}</span>
+    <span onClick={click}>{answer}</span>
   </div>
 );
 export default AnswerButton;

@@ -1,5 +1,5 @@
 import React from "react";
-
+//Symbol created for wrong answer.
 const FalseIcon = (props) => {
   console.log(props);
   return (
