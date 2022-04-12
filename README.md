@@ -3,6 +3,14 @@
 
 *My Mathematics-Game Project*
 
+<hr>
+<hr>
+
+The live version of the project is the link here  <a href="https://vercel.com/resithansonsuz/patika-week4-mathematics-game-project" target="_blank">Click</a> .
+
+<hr>
+<hr>
+
 *Introduction Section*
 ![banner resmi](public/screenshoots/StartPage.png)
 
