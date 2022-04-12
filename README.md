@@ -6,7 +6,7 @@
 <hr>
 <hr>
 
-The live version of the project is the link here  <a href="https://vercel.com/resithansonsuz/patika-week4-mathematics-game-project" target="_blank">Click</a> .
+The live version of the project is the link here  <a href="https://patika-week4-mathematics-game-project-6dyuxh5xj-resithansonsuz.vercel.app/" target="_blank">Click</a> .
 
 <hr>
 <hr>
